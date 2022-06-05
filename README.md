@@ -1,6 +1,6 @@
 ## Welcome to Emma and Alex's scrapbook website!
 
-<img src="/files/a.jpg" alt="e&a" width="200"/>
+![e&a](/files/a.jpg =250x)
 
 You can use the [editor on GitHub](https://github.com/aANDeScrapbook/scrapbook.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
