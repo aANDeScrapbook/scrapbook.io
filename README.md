@@ -1,7 +1,6 @@
 ## Welcome to Emma and Alex's scrapbook website!
 
-![e&a](/files/a.jpg){ width=10% }
-![e&a](/files/a.jpg =10x)
+![drawing](a.jpg)
 
 You can use the [editor on GitHub](https://github.com/aANDeScrapbook/scrapbook.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
